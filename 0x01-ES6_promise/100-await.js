@@ -1,3 +1,5 @@
+### `100-await.js`
+```javascript```
 import { uploadPhoto, createUser } from './utils.js';
 
 export default async function asyncUploadUser() {
